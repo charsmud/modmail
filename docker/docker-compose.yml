@@ -141,7 +141,9 @@ services:
       STATE_MESSAGE: 'false'
       STATE_MESSAGE_TTL: 1000
       STATE_PRESENCE: 'false'
+      STATE_EMOJI: 'false'
       STATE_OLD: 'false'
+      STATE_VOICE: 'false'
       RABBIT_HOST: rabbitmq
       RABBIT_PORT: 5672
       RABBIT_USERNAME: guest
